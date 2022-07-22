@@ -101,7 +101,7 @@
       },
       "rules": {
         "allow_blind_buried_vias": false,
-        "allow_microvias": false,
+        "allow_microvias": true,
         "max_error": 0.0050799999999999994,
         "min_clearance": 0.2032,
         "min_copper_edge_clearance": 0.508,
@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "HPS_Round_Clock.kicad_pro",
+    "filename": "hps_clock.kicad_pro",
     "version": 1
   },
   "net_settings": {
